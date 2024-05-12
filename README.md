@@ -2,7 +2,7 @@
 
 Implementation of [*PassREfinder*: Credential Stuffing Risk Prediction by Representing Password Reuse between Websites on a Graph](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a020/1RjE9X1AJDa), 2024 IEEE Symposium on Security and Privacy (SP)
 
-The access is available upon request. Please submit this google form https://forms.gle/aTyTfbD8tYnHrLEw6
+_The access is available upon request. Please submit this google form https://forms.gle/aTyTfbD8tYnHrLEw6_
 
 ## Citation
 ```
